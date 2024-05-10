@@ -1,0 +1,53 @@
+h2{
+	color: red;
+}
+
+.text{
+	background: green;
+}
+
+#a{
+   border: black 5px solid;
+}
+
+.size{
+	font-size: 40px;
+}
+
+.form{
+	width: 400px;
+	margin: 0px auto;
+	border: 5px #ddd solid;
+	padding: 20px;
+	font-weight: bold;
+
+}
+h1{
+	text-align: center;
+}
+
+.sob {
+	width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+button{
+	width: 100%;
+	padding: 8px;
+	background-color:#007bff;
+	color: white ;
+}
+
+tr{
+	text-align: center;
+}
+
+table{
+	margin: 0px auto;
+}
+
+td:hover{
+	background-color: #ddd;
+
+}
